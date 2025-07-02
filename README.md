@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/akatarunchauhan" target="blank"><img src="https://img.shields.io/twitter/follow/akatarunchauhan?logo=twitter&style=for-the-badge" alt="akatarunchauhan" /></a> </p>
 
-- 🔭 I’m currently working on [SpotJeez](https://github.com/akatarunchauhan/airbnb-clone.git)
+- 🔭 I’m currently working on [DHH](https://github.com/akatarunchauhan/airbnb-clone.git)
 
 - 🌱 I’m currently learning **React**
 
